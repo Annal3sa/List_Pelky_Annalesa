@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_Pelky_Annalesa", "List_Pelky_Annalesa.csproj", "{F47BE23F-FF34-415C-995A-17AE2C5ABF0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F47BE23F-FF34-415C-995A-17AE2C5ABF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47BE23F-FF34-415C-995A-17AE2C5ABF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47BE23F-FF34-415C-995A-17AE2C5ABF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47BE23F-FF34-415C-995A-17AE2C5ABF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0F3505F-D0DA-4C07-A594-2A38CA786F4E}
+	EndGlobalSection
+EndGlobal
